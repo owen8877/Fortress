@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 005ff7616546d5142bbc6fa17b1cb20d
+timeCreated: 1484464462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 0, y: 4}
+      - {x: 1.236068, y: 3.8042262}
+      - {x: 2.351141, y: 3.236068}
+      - {x: 3.236068, y: 2.351141}
+      - {x: 3.8042262, y: 1.2360679}
+      - {x: 4, y: -0.00000017484555}
+      - {x: 3.804226, y: -1.2360681}
+      - {x: 3.236068, y: -2.3511407}
+      - {x: 2.3511407, y: -3.2360682}
+      - {x: 1.2360672, y: -3.8042264}
+      - {x: -0.0000013033655, y: -4}
+      - {x: -1.2360697, y: -3.8042254}
+      - {x: -2.351143, y: -3.2360666}
+      - {x: -3.2360697, y: -2.3511388}
+      - {x: -3.804227, y: -1.2360648}
+      - {x: -4, y: 0.0000038623966}
+      - {x: -3.8042247, y: 1.2360722}
+      - {x: -3.2360651, y: 2.351145}
+      - {x: -2.3511367, y: 3.236071}
+      - {x: -1.2360624, y: 3.8042278}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
